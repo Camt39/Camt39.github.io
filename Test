@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<script>
+alert( '곧 사이트로 이동이 됩니다.' );
+</script>
+<body>
+<title>이동중</title>
+</body>
+<font face=""><p>곧 이동됩니다.</p>
+setTimeout(function() {
+}, 3000;
+window.location.href = 'https://www.youtube.com/channel/UC5iX7PKkbPXiESujo8ZKv1w';
+</html>
